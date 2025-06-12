@@ -9,5 +9,5 @@ package latihan2;
  * @author Lenovo
  */
 public class DataDiriBeraksi {
-    
+    DataDiri wirda = new DataDiri("Wirda Hajiza Fadila", "4C Teknik Informatika", 2310010076);
 }
